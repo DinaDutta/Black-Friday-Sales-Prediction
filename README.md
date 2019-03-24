@@ -1,23 +1,29 @@
 # Project: Black Friday Sales Prediction
-Install
+# Install
 This project requires Python 3.x and the following Python libraries installed:
 
 NumPy
+
 Pandas
+
 matplotlib
+
 scikit-learn
+
 seaborn
 
 You will also need to have software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. 
 
-Code
+#Code
+
 Template code is provided in the submission.ipynb notebook file. 
 The dataset is provided in train.csv and test.csv. These files are needed to run the code successfully
 Along with these files, submissioninitial.csv is also provided which is the result csv file. It is not needed to run the code.
 
-Run
+#Run
+
 In a terminal or command window, navigate to the top-level project directory Capstone Project - Black Friday Sales/ (that contains this README) and run one of the following commands:
 
 ipython notebook submission.ipynb
@@ -25,7 +31,8 @@ or
 
 jupyter notebook submission.ipynb
 
-Data
+#Data
+
 The variables and their definition in the dataset are mentioned below:
 
 Variable	                  Definition
